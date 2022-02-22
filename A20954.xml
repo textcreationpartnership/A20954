@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oppositions of the VVord of God, together with the doctrine of the Romane Church Moreouer, what points are held by the same Church, which she hideth from those whom shee meaneth to draw to her faction. Written by Peter Mouleine, minister of the word of God in Paris, and translated by A.S.</title>
+            <title>Oppositions de la parole de Dieu. English</title>
+            <author>Du Moulin, Pierre, 1568-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1610</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20954</idno>
+            <idno type="STC">STC 7333</idno>
+            <idno type="STC">ESTC S111076</idno>
+            <idno type="EEBO-CITATION">99846498</idno>
+            <idno type="PROQUEST">99846498</idno>
+            <idno type="VID">11471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20954)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11471)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1064:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oppositions of the VVord of God, together with the doctrine of the Romane Church Moreouer, what points are held by the same Church, which she hideth from those whom shee meaneth to draw to her faction. Written by Peter Mouleine, minister of the word of God in Paris, and translated by A.S.</title>
+                  <title>Oppositions de la parole de Dieu. English</title>
+                  <author>Du Moulin, Pierre, 1568-1658.</author>
+                  <author>A. S., fl. 1610.</author>
+               </titleStmt>
+               <extent>[4], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby for Richard Moore, and are to be sold at his shop in Saint Dunstanes Church-yard in Fleete-streete,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1610.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Oppositions de la parole de Dieu.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11471:1" rendition="simple:additions"/>
+            <p>OPPOSITIONS OF THE WORD OF GOD, TOGETHER WITH THE DOCTRINE OF THE ROMANE CHVRCH. Moreouer, what points are held by the ſame Church, which ſhe hideth from thoſe whom ſhe meaneth to draw to her faction. <hi>Written by</hi> PETER MOVLEINE, <hi>Miniſter of the word of God in Paris, and tranſlated by A. S.</hi>
+            </p>
+            <p>LONDON Printed by WILLIAM STANSBY for <hi>Richard Moore,</hi> and are to be ſold at his ſhop in Saint <hi>Dunstanes</hi> Church-yard in Fleete-ſtreete, 1610.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:11471:2"/>
+            <pb facs="tcp:11471:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">G</seg>Entle Reader, both the Argument of this ſhort Treatiſe (the better part of which conſiſteth in Oppoſitions, which the more plainely they bee ſet downe, the more clearely they appeare) and the purpoſe of the Author (who made it for the vn<g ref="char:EOLhyphen"/>learned) hath made me to abſtaine from the flo<g ref="char:EOLhyphen"/>wers of Rhetorique in the tranſlation thereof, wholy applying my ſelfe to expreſſe the Authors meaning, as knowing that there is nothing heere but for the ſimple, who ought rather to be inſtru<g ref="char:EOLhyphen"/>cted then delighted in matters of Religion. Par<g ref="char:EOLhyphen"/>don the Tranſlater hereof, that hee nameth not himſelfe, ſince that he had rather purchaſe profit to others, then vaine-glory to himſelfe. The name of the Author is a ſufficient patronage for the booke, who is ſo acute, and ſubtill in controuer<g ref="char:EOLhyphen"/>ſies of Religion, that he neuer diſputeth, but with<g ref="char:EOLhyphen"/>all he refuteth. Many bookes haue beene written of this Subiect, but none as yet ſo fitted to the ca<g ref="char:EOLhyphen"/>pacitie of the vulgar, neither comprehended in ſo
+<pb facs="tcp:11471:3"/> fewe leaues. Here are no nice diſtinctions to di<g ref="char:EOLhyphen"/>ſtract the ignorant, but onely thoſe Papisticall errours are here ſhewed, which are repugnant to the written verity. Let intention accompanie thee in reading, diſcretion in iudging, gratulation in profiting: and if thou beeſt profited, then ſhall I count my ſelfe to haue well tranſlated. Fare<g ref="char:EOLhyphen"/>well.</hi>
+            </p>
+            <closer>
+               <signed>Thine or not thine, A. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:11471:3"/>
+            <head>OPPOSITIONS OF THE WORD OF GOD, TOGE<g ref="char:EOLhyphen"/>ther with the Doctrine of the Romane Church.</head>
+            <div type="part">
+               <head>I cannot rank my ſelfe with the Romane Church, becauſe ſhee teacheth things diſagreeing with the word of God, contained in the holy Scrip<g ref="char:EOLhyphen"/>tures.</head>
+               <div type="subpart">
+                  <head>I.</head>
+                  <p>
+                     <seg rend="decorInit">G</seg>OD forbiddeth to add any thing to<note place="margin">Deutro. 4. 2.</note> his worde: ¶ The Romane Church in way of contradiction doth add many thinges thereunto: as inuocation of Saints, adoration of Images, the Com<g ref="char:EOLhyphen"/>munion vnder one Species or kinde, a prohibition to eate fleſh vpon certaine dayes; prayer in a tongue not vnder<g ref="char:EOLhyphen"/>ſtood of the people, the ſatisfaction of Saints for the ſinnes of others, the ſingle life of Prieſts, confirmation, Auriculer con<g ref="char:EOLhyphen"/>feſſion, the deliuerance of ſoules out of the fire of Purgatorie by the indulgences of the Pope, the Iubily at the end of euery fiue &amp; twenty yeares for the remiſſion of all ſins, pardons for a hundred thouſand yeares and more, the Lymbus for In<g ref="char:EOLhyphen"/>fants: the inſtitution of Maſſe Prieſts, who vaunt that they ſacrifice Ieſus Chriſt, pilgrimages to viſite reliques, the diuers charges giuen to Saints, as to one to cure the tooth-ake, to another to be patron of the Shoomakers, to another to go<g ref="char:EOLhyphen"/>uerne
+<pb n="2" facs="tcp:11471:4"/> Spaine, or France. Particuler Maſſes, ſaid in a corner of the Church, at the requeſt of ſome particular man who payeth for them, Maſſes without Communion, and without aſſiſtants: Maſſes for the corne, heards of cattell, &amp;c. The ho<g ref="char:EOLhyphen"/>ly beades which are diſtributed to procure a hundred yeares pardon of ſinne. The <hi>Agnus Dei</hi> which the Pope ſanctifieth, giuing them vertue and power againſt the diuell, and againſt ſinne, the cuſtome to baptiſe bells, ſhips, &amp;c. And a thou<g ref="char:EOLhyphen"/>ſand ſuch follies, of the which there is not ſo much as one word extant in the word of God.</p>
+               </div>
+               <div type="subpart">
+                  <head>II.</head>
+                  <p>God forbiddeth to diminiſh his word, or take any thing<note place="margin">Deutro. 4. 2.</note> from it. ¶ On the contrary ſide, the Church of Rome hath ta<g ref="char:EOLhyphen"/>ken away the ſecond commandement of God, out of the Ca<g ref="char:EOLhyphen"/>nons of the Maſſe, in the which is contained an expreſſe pro<g ref="char:EOLhyphen"/>hibition to make any reſemblance of any thing, which is in heauen aboue, and in the earth beneath, in way of worſhip. With the like impudencie haue they tooke from the Bible<note place="margin">Gen. 3. 15.</note> theſe wordes: that the ſeede of the woman (namely Ieſus Chriſt) ſhould bruſe the head of the ſerpent: ſaying, that it ſhould be read thus, that the woman ſhall bruſe the head of the ſerpent: giuing that honour to the virgine <hi>Mary,</hi> which is due to our Sauiour Ieſus Chriſt.</p>
+               </div>
+               <div type="subpart">
+                  <head>III.</head>
+                  <p>Saint <hi>Paul</hi> ſaith, that the holy Scriptures are able to make<note place="margin">2. Timoth. 3. 15.</note> vs wiſe vnto ſaluation: ¶ On the contrary ſide, the Church of Rome teacheth that the word of God is inſufficient to de<g ref="char:EOLhyphen"/>clare the truth: that it was not inſtituted to be the rule of our<note place="margin">See the 3. veri<g ref="char:EOLhyphen"/>ty of <hi>Charron,</hi> &amp; <hi>Bellarmine de verbo non Scrip<g ref="char:EOLhyphen"/>to,</hi> and the Bi<g ref="char:EOLhyphen"/>ſhop of Eureux in his booke of traditions. <hi>Rom. 11. 21. and 22.</hi>
+                     </note> faith: that it is but a peece, or part of that rule. And that it is not the principall, and ſoueraine Iudge in doubts and con<g ref="char:EOLhyphen"/>trouerſies of Religion: but that this prerogatiue of right be<g ref="char:EOLhyphen"/>longeth to the Church of Rome.</p>
+               </div>
+               <div type="subpart">
+                  <head>IIII.</head>
+                  <p>The Apoſtle S. <hi>Paul</hi> in his Epiſtle to the Romanes, threat<g ref="char:EOLhyphen"/>neth the Church of Rome, that ſhee ſhould be cut off, if ſhee perſeuered not, or if ſhee grew high minded. ¶ On the con<g ref="char:EOLhyphen"/>trary
+<pb n="3" facs="tcp:11471:4"/> part, the Church of Rome at this preſent day vaunteth, that ſhe cannot erre: and that her head, to wit the Pope, can<g ref="char:EOLhyphen"/>not become an heretique.</p>
+               </div>
+               <div type="subpart">
+                  <head>V.</head>
+                  <p>God doth exhort vs to reade the holy Scriptures, not that<note place="margin">Reuel. 1. 3. 2 Pet. 1. 19. Acts. 17. 11.</note> excepted which is moſt obſcure in them, as the Reuelation, and the Prophets. ¶ On the contrary ſide, in the Church of Rome the people are not permitted to reade the holy Scrip<g ref="char:EOLhyphen"/>tures, leaſt they become heretiques; neither doe they ſuffer the word to be read in a tongue vnderſtood of the people.</p>
+               </div>
+               <div type="subpart">
+                  <head>VI.</head>
+                  <p>The Apoſtle S. <hi>Paul</hi> would haue vs pray and ſpeake in the<note place="margin">1. Corinth. 14.</note> Church, in a tongue vnderſtood of the aſſiſtants; and ſaith, that he had rather pronounce in the Church fiue words with vnderſtanding, then tenne thouſand in a tongue not vnder<g ref="char:EOLhyphen"/>ſtood. ¶ On the contrary part, in the Church of Rome the diuine ſeruice is ſaid in an vnknowne tongue, and the peo<g ref="char:EOLhyphen"/>ple are accuſtomed to pray to God without knowing what they ſay: from whence it commeth to paſſe, that oftentimes they ſay a <hi>Pater noſter,</hi> before the Image of S. <hi>Nicholas,</hi> or S. <hi>Roch,</hi> and ſay an <hi>Aue Maria,</hi> as if it were a prayer.</p>
+               </div>
+               <div type="subpart">
+                  <head>VII.</head>
+                  <p>The ſame Apoſtle holdeth it a thing impoſſible for a man<note place="margin">Rom. 10. 14.</note> to call vpon him, in whom he beleeues not, ſaying, how will they call vpon him in whom they haue not belieued? and all the prayers of the holy Scripture are addreſſed to God: ¶ On the contrary ſide, in the Church of Rome they inuoke them, in whom they beleeue not, and addreſſe their prayers to the creature.</p>
+               </div>
+               <div type="subpart">
+                  <head>VIII.</head>
+                  <p>The holy Scripture teacheth vs, that God alone knoweth<note place="margin">1. Kings. 8. 39.</note> and ſearcheth the hearts of men. ¶ On the contrary ſide, the Church of Rome telleth vs, that the Saints know our hearts, and thoughts.</p>
+               </div>
+               <div type="subpart">
+                  <head>IX.</head>
+                  <p>The holy Scripture preſenteth Ieſus Chriſt, as him who<note place="margin">1. Timoth. 2. 5. Acts 4. 12.</note>
+                     <pb n="4" facs="tcp:11471:5"/> hath giuen himſelfe a ranſome for vs: and moreouer ſayth that ſaluation belongeth to him alone. ¶ On the contrary ſide in the Romane Church it is taught, that the Saints and<note place="margin">Quorum preci<g ref="char:EOLhyphen"/>bus, meritiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> In the Canon of the maſſe.</note> Monkes haue done and ſuffered more then they ought, and beyond their duety, for the payment and abſolution of the puniſhment due to their ſinnes, and that this ouer-plus ſer<g ref="char:EOLhyphen"/>ueth for the payment and acquitting of other mens ſinnes: wherefore in the Maſſe and prayers of the Church of Rome, they pray not onely to God, through the interceſſion of Saints, but alſo ground their demands vpon their merites.</p>
+               </div>
+               <div type="subpart">
+                  <head>X.</head>
+                  <p>Saint <hi>Paul</hi> ſaith, that euery one carrieth his owne bur<g ref="char:EOLhyphen"/>den.<note place="margin">Galat. 6. 5.</note> ¶ On the contrary ſide in the Church of Rome they teach, that by faſting, afflicting our ſelues, and giuing to the Church, we may beare the paine due to the ſinnes of our friends, as alſo that we may ſhorten their torment in Pur<g ref="char:EOLhyphen"/>gatorie.</p>
+               </div>
+               <div type="subpart">
+                  <head>XI.</head>
+                  <p>The holy ſcripture termes Ieſus Chriſt our onely aduo<g ref="char:EOLhyphen"/>cate and mediator, who ſitting at the right hand of God ma<g ref="char:EOLhyphen"/>keth<note place="margin">1. Iohn 2. 1. 1 Timoth. 2. 5. Rom. 8. 33. Rom. 5. 10.</note> interceſſion for vs, and who loueth vs with a Soueraign loue, euen to thruſt himſelfe into the iawes of death to ſaue his enemies. ¶ On the contrary ſide, the Romane Church ſetteth him foorth like a ſeuere Iudge, full of wrath and<note place="margin">This is to bee ſeene in the virgine <hi>Maries</hi> Pſalter.</note> indignation againſt vs, till the Virgine <hi>Mary</hi> ſtanding before him, appeaſe his anger, and turne his indignation from vs.</p>
+               </div>
+               <div type="subpart">
+                  <head>XII.</head>
+                  <p>God in his law forbiddeth all men to repreſent him by a<g ref="char:EOLhyphen"/>ny<note place="margin">Deut. 4 15. and 16.</note> reſemblance or picture whatſoeuer. ¶ On the contrary ſide the Church of Rome painteth foorth the Trinity moſt groſſely.</p>
+               </div>
+               <div type="subpart">
+                  <head>XIII.</head>
+                  <p>God forbiddeth in his law to bow before the likeneſſe or ſimilitude of things, that are in heauen aboue or in the earth<note place="margin">Exod. 20. 4 &amp; 5.</note> beneath it. ¶ On the contrary ſide, in the Church of Rome they kneele before the Images of Saints, doe reuerence to
+<pb n="5" facs="tcp:11471:5"/> them, carry them in proceſſion, cloth them, put them on cleane caps euery holy-day, light candles by them: and to ſhew ſome holines to be in the Image, they will haue of one and the ſelfe ſame Saint many Images, one of the which ſhall be viſited, and honoured, another abandoned and forſaken.</p>
+               </div>
+               <div type="subpart">
+                  <head>XIIII.</head>
+                  <p>The Apoſtle S. <hi>Paul</hi> ſaith, that whatſoeuer is done with<g ref="char:EOLhyphen"/>out faith, is ſinne. ¶ On the contrary ſide in the Church of<note place="margin">Rom. 14. 23.</note> Rome they teach, that thoſe, who are Infidels, and without faith, doe neuertheleſſe good workes, and merite by them, which they call merits of congruity.</p>
+               </div>
+               <div type="subpart">
+                  <head>XV.</head>
+                  <p>The holy Scripture ſpeaking of man, not regenerate, and<note place="margin">Gen. 6. 5. Epheſ. 2. 1.</note> as he is in his owne nature, ſaith, that all the thoughts of man are at all times euill, and that he is dead in ſinne, and that we cannot ſo much as will what is good. ¶ On the contrary ſide in the Church of Rome they teach, that man not regenerate, hath freewill, and hath the power to chuſe what is good.</p>
+               </div>
+               <div type="subpart">
+                  <head>XVI.</head>
+                  <p>Saint <hi>Paul</hi> calleth the concupiſcence which remaineth in<note place="margin">Rom. 7. 7. In the Counſell of Trent. Seſſ. 5.</note> the faithfull, ſinne. ¶ On the contrary part the Church of Rome teacheth, that it is not ſinne.</p>
+               </div>
+               <div type="subpart">
+                  <head>XVII.</head>
+                  <p>The holy Scripture ſaith, that there is no man without ſinne, and that we all faile, and fall in many things: and Ieſus<note place="margin">1. Kin. 8. 46. Iam. 2 Job 7. 20. Pſal. 51. 6. &amp; 7. Rom. 7. In the ſummary of the law.</note> Chriſt commaundeth his Apoſtles, and vs all, to repeate this often, <hi>Forgiue vs our treſpaſſes: Iob, Dauid, S. Paul</hi> acknow<g ref="char:EOLhyphen"/>ledge themſelues to be ſinners. ¶ On the contrary ſide in the Church of Rome they teach, that man can fulfill the law, and by conſequence, be without ſinne: nay, which is more, they teach that man can doe more, then God commandeth in his law to be done: although hee commaund vs to ſerue him with all our hearts, with all our ſoules, &amp; with all our might.</p>
+               </div>
+               <div type="subpart">
+                  <head>XVIII</head>
+                  <p>The Apoſtle Saint <hi>Paul</hi> ſaith, that all our ſinnes are forgi<g ref="char:EOLhyphen"/>uen<note place="margin">Col. 2. 13. 1. Ioh. 1. 7.</note> vs freely, or as we commonly ſay, <hi>gratis,</hi> and that the
+<pb n="6" facs="tcp:11471:6"/> blood of Ieſus Chriſt doth clenſe vs from all our ſinnes. ¶ On the contrary ſide, in the Church of Rome they teach that our ſinnes are not forgiuen vs freely: but that wee muſt pay ſatiſ<g ref="char:EOLhyphen"/>faction for them, and indure paine for them, both in this life, and in Purgatory: and that beſides the blood of Ieſus Chriſt, we muſt haue another clenſing and purification of ours in the fire of Purgatorie, from whence there is no deliuery be<g ref="char:EOLhyphen"/>fore the laſt penny be paid.</p>
+               </div>
+               <div type="subpart">
+                  <head>XIX.</head>
+                  <p>The ſpirit of God ſaith, happie are thoſe which die in the<note place="margin">Reuel. 14. 13. Eſay. 57. 2.</note> Lord, and that they reſt from their labours: in like manner thoſe which walke in Gods wayes, when they die enter into peace: and repoſe themſelues in their beds: Item, that it is ordained that euery man ſhall die once, and after that ſhall iudgement come, without making mention of any fire,<note place="margin">Heb. 9. 27. Luke. 23. 43. Luke. 2. 29. 2. Tim. 4. 8.</note> through which we muſt paſſe before we come to iudgement: and the Scripture witneſſeth to vs of the good theefe, that the ſame day which hee died, his ſoule entred into Paradiſe: and of <hi>Simeon,</hi> that he is entred into peace: and of Saint <hi>Paul</hi> that hauing finiſhed his courſe, he receiued a Crowne of glo<g ref="char:EOLhyphen"/>ry. ¶ On the contrary ſide, in the Church of Rome they teach, that the ſoules of the faithfull are carried into a fire, there to be tormented for a long time together, as appeareth by the pardons for an hundred thouſand, and two hundred thouſand yeares. For this reaſon alſo are Maſſes ſaide, for ſuch as haue beene beneficiall to the Church foure or fiue hundred yeares agoe.</p>
+               </div>
+               <div type="subpart">
+                  <head>XX.</head>
+                  <p>The holy Scripture calleth eternall life a gift, and an inhe<g ref="char:EOLhyphen"/>ritance.<note place="margin">Rom. 6 23. Luke. 12. 32. Epheſ. 2. 8.</note> ¶ On the contrary ſide, in the Church of Rome they teach, that wee purchaſe life euerlaſting by our merits, not<g ref="char:EOLhyphen"/>withſtanding that Ieſus Chriſt hath taught vs, that when we haue done all that we can doe, we are vnprofitable ſeruants.<note place="margin">Luke. 17. 10.</note>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>XXI.</head>
+                  <p>The remiſſion of ſinnes is ſet forth in the Goſpell, as a gift promiſed to thoſe who belieue in Ieſus Chriſt. ¶ On the con<g ref="char:EOLhyphen"/>trary<note place="margin">Acts. 10. 43.</note>
+                     <pb n="7" facs="tcp:11471:6"/> part, the Pope remitteth ſinnes of all ſorts, be they ne<g ref="char:EOLhyphen"/>uer ſo lewd, and enormous, not as one who inuiteth, and ſum<g ref="char:EOLhyphen"/>moneth ſinners to apprehend the grace, which is purchaſed for vs by Ieſus Chriſt: but he giueth the remiſſion of ſinnes in the forme of Arreſts, and Letters Patents, ſealed with leade vnder the Ring of the fiſher, as if a King did ſpeake, and not an Heraulde of the grace of God.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXII.</head>
+                  <p>Remiſſion of ſinnes is publiſhed in the Goſpel, and decla<g ref="char:EOLhyphen"/>red<note place="margin">Acts. 10. 34. 35.</note> to all men of all nations whatſoeuer. ¶ On the contrarie ſide in the Church of Rome: the remiſſion of ſinnes is tied to one certaine day, to one certaine place, to one certaine yere, and to one certaine Conuent, whether the people are bound to goe to ſeeke pardons for their ſinnes: in like manner the full pardon of all ſinnes is publiſhed at Rome, in the yeere of Iubile, which is renewed very often: to wit, at the end of e<g ref="char:EOLhyphen"/>uery<note place="margin">By the inhabi<g ref="char:EOLhyphen"/>tants of Rome</note> fiue and twentie yeeres: from whence it followeth, that the remiſſion of ſinnes is eaſily to be obtained, but hard to be obtained by them who dwell farre off, eſpecially if they bee ſicke, feeble, or are deſtitute of horſes: as alſo that God is more mercifull in the yeere of Iubile, then in any other yeres, &amp; that the prayers made in the Churches of the Gray-Friers, where the Iubile is kept, are better then thoſe which are made at the Iacobins Conuents: counting it a great vnhappineſſe to die a little before the Iubile: whereas he that dieth inconti<g ref="char:EOLhyphen"/>nently after the Iubile goeth directly into Paradiſe.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXIII.</head>
+                  <p>Ieſus Chriſt ſayeth that happie are the poore, for theirs is<note place="margin">Luke. 6. 20</note> the kingdome of God. ¶ On the contrary ſide in the Church of Rome it may be ſaid, Bleſſed are the rich: for they haue where with all to pay for Maſſes after their death, the which Maſſes are of power &amp; vertu, to take away &amp; nullifie the pain of Purgatorie: they ſay more particular Maſſes for the poore, the order of begging Friers neuer goe to viſite a dying man, except he be a man of wealth: they ſay no Maſſes for nothing: in briefe with the Church of Rome, euery thing is ſolde,
+<pb n="8" facs="tcp:11471:7"/> buriall, the ringing of Bels, Confeſſions, Prayers, Remiſſi<g ref="char:EOLhyphen"/>on of ſinnes; beſides this, boxes ſet in order to inuite the peo<g ref="char:EOLhyphen"/>ple to contribute to the Church, although ſhe haue the third part of the reuenues of the kingdome: and the Pope beſtowes<note place="margin">Which they call in the Ro<g ref="char:EOLhyphen"/>mane Church Annates.</note> Biſhoprickes vpon this condition that he ſhall haue the firſt yeeres rent.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXIIII.</head>
+                  <p>The Apoſtle Saint <hi>Paul</hi> teaches vs, that we are iuſtified by<note place="margin">
+                        <hi>Gal.</hi> 2: 16.</note> faith onely, and not by the workes of the Law. ¶ On the co<g ref="char:cmbAbbrStroke">̄</g>trary ſide the Church of Rome teacheth, that a man is iuſti<g ref="char:EOLhyphen"/>fied by his works: not only by that iuſtification towards men, (which S. <hi>Iames</hi> maketh mention of) but alſo toward God.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXV.</head>
+                  <p>Saint <hi>Peter</hi> ſaies, that whoſoeuer beleeues in Ieſus Chriſt<note place="margin">Acts 11. 10. 43. Acts 13 39.</note> ſhall haue remiſſion of ſinnes: and Saint <hi>Paul,</hi> that whoſoe<g ref="char:EOLhyphen"/>uer beleeues in Ieſus Chriſt, ſhall be iuſtified. ¶ On the con<g ref="char:EOLhyphen"/>trary ſide, in the Church of Rome they teach, that euery man that beleeueth is not iuſtified, neither hath alwayes remiſſion of his ſinnes, ſince that as they ſay, to beleeue and to haue faith, is onely to hold for truth all what God hath ſaide; all which the diuels and many of the wicked beleeue.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXVI.</head>
+                  <p>God would haue vs to approach before him with bold<g ref="char:EOLhyphen"/>neſſe<note place="margin">Epheſ. 2. 12. Hebrewes 3. 6. Iohn 3. 16. 17. &amp; 18.</note> and confidence, through the faith which wee haue in Ieſus Chriſt: and that wee retaine to the end the aſſurance, and glory of our hope: and Ieſus Chriſt doth aſſure vs, that whoſoeuer beleeueth in him ſhall not periſh, but haue life euerlaſting. ¶ On the contrary ſide, the Church of Rome cal<g ref="char:EOLhyphen"/>leth this confidence and aſſurance, a preſumption: teaching the people that they ſhould doubt of their ſaluation. From whence enſueth, that he who is in his death-bed, and belee<g ref="char:EOLhyphen"/>ueth in Ieſus Chriſt, ought to doubt of the truth of the pro<g ref="char:EOLhyphen"/>miſe of God, who ſaies, that whoſoeuer beleeueth in Ieſus Chriſt, ſhall haue life euerlaſting.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXVII.</head>
+                  <p>Saint <hi>Paul</hi> hauing ſaid, that all our ſinnes are forgiuen vs<note place="margin">Coloſ. 2. 13.</note>
+                     <pb n="9" facs="tcp:11471:7"/> freely: addeth in another place, that where remiſſion of<note place="margin">Heb. 10. 18. &amp; Chap. 9. 25.</note> ſinne is, there is no more ſacrifice for ſinne, and that Ieſus Chriſt doth not offer himſelf often for vs. ¶ On the contrary ſide, in the Church of Rome they offer euery day ſacrifice propitiatory for the redemption of our ſoules, and they pre<g ref="char:EOLhyphen"/>tend to ſacrifice Ieſus Chriſt himſelfe, although the Scripture teacheth vs, that Ieſus Chriſt hath a true humane bodie, as we haue, the which is placed at the right hand of God, and is contained in heauen, from whence he ſhall deſcend at the day of iudgement.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXVIII.</head>
+                  <p>Ieſus Chriſt forbiddeth his Apoſtles to raigne one ouer<note place="margin">Luke 22. 25. and 26. 2. Corinth. 12. 11. Galath. 1. 1.</note> another: and S. <hi>Paul</hi> ſaies, that hee was in nothing inferiour to the moſt excellent Apoſtles: as alſo that hee had not his charge from any man, but from Ieſus Chriſt. ¶ On the con<g ref="char:EOLhyphen"/>trary ſide in the Church of Rome, they make S. <hi>Peter</hi> the head and the Prince of the Apoſtles, hauing authority and commaund ouer them, as if they were all ſubiect vnto him: in like manner the Pope willeth all other Biſhops to take their charge of him.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXIX.</head>
+                  <p>S. <hi>Paul</hi> would haue a Biſhop to be the husband of one<note place="margin">1. Timoth. 3. 2. and 4.</note> wife, and that he keepe his children in all obedience toward him. ¶ On the contrary ſide, in the Church of Rome Eccleſia<g ref="char:EOLhyphen"/>ſticall perſons are forbidden to marrie: a doctrine which the<note place="margin">In the 4. Chap. of the ſame Epiſtle.</note> ſame Apoſtle calleth the doctrine of diuels.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXX.</head>
+                  <p>The word of God would haue vs, when we are inuited by<note place="margin">1. Corinth. 10. 25. &amp; 27.</note> Infidels, to eate whatſoeuer is put before vs, without making a conſcience ſo to doe. ¶ On the contrary ſide, thoſe of the Romane Church being inuited by vs, would make it a con<g ref="char:EOLhyphen"/>ſcience to eate of all that we ſet before them we (I ſay) whom they name Heretiques, and ranke with Infidels.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXXI.</head>
+                  <p>S. <hi>Paul</hi> would haue all men to be ſubiect to the higher po<g ref="char:EOLhyphen"/>wers,<note place="margin">Rom. 13. 1. &amp; 4. 14.</note> and to Princes, who carrie the ſword to doe iuſtice.
+<pb n="10" facs="tcp:11471:8"/> ¶ On the contrary ſide, thoſe in the Church of Rome, who haue retired themſelues into a Conuent, are not onely free from the power and commaund of their Princes: but alſo of their fathers and mothers.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXXII.</head>
+                  <p>Our Sauiour Ieſus Chriſt diſtributing the cup in his laſt<note place="margin">Mat. 26. 27. 1. Cor. 11. 28.</note> ſupper, ſaid, <hi>Drinke of this all,</hi> and S. <hi>Paul</hi> willeth, <hi>that euery one hauing proued and ſearched himſelfe, drink of this Cup.</hi> ¶ On the contrary ſide, in the Church of Rome the Prieſt alone drinketh, and the reſt of the people feedeth vpon one Species or Kinde onely.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXXIII.</head>
+                  <p>Our Sauiour Ieſus Chriſt diſtributing the bread, ſayd, <hi>take,</hi>
+                     <note place="margin">1. Cor. 11. 24.</note> 
+                     <hi>eate.</hi> ¶ On the contrary ſide, in the Church of Rome the Prieſt in the Maſſe eateth alone, yet notwithſtanding in way of mockage, he ſaies, <hi>take, eate;</hi> and prayeth for all thoſe who haue eaten and participated at the Altar, albeit himſelfe ea<g ref="char:EOLhyphen"/>teth<note place="margin">Vt quot quot ex hac altaris par<g ref="char:EOLhyphen"/>ticipatione Sump ſerimus. Mat. 26. 29.</note> and drinketh alone.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXXIIII.</head>
+                  <p>Our Sauiour Ieſus Chriſt calleth that which he gaue to his Apoſtles, <hi>the fruit of the vine.</hi> ¶ On the contrary ſide, in the Church of Rome they teach, that it is not the fruit of the vine, but bloud.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXXV.</head>
+                  <p>S. <hi>Paul</hi> ſaies, that hee brake bread in the Lords Supper,<note place="margin">1. Cor. 10. 16. In the 10. chap. &amp; 11.</note> with theſe words, <hi>the bread which wee breake:</hi> and himſelfe fiue times together ſaith, <hi>that we eate bread.</hi> ¶ On the contrary ſide, in the Church of Rome they teach that it is not bread, but <hi>Ieſus Chriſt,</hi> as great, and as tall as hee was vpon the Croſſe: and moreouer in breaking him with their teeth, they breake him not; but remaineth whole in euery part &amp; peece of the hoſt, or Sacrament.<note place="margin">
+                        <hi>1. Cor.</hi> 10. 20. They call the Supper the waſhing of the Poores feet.</note>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <head>XXXVI.</head>
+                  <p>S. <hi>Paul</hi> calleth the Sacrament, which Chriſt miniſtred to his Apoſtles, the Supper of the Lord: but in the Church of Rome at this day there is a number of Maſſes different in ce<g ref="char:EOLhyphen"/>remonies,
+<pb n="11" facs="tcp:11471:8"/> different in the end, and purpoſe for which they<note place="margin">S <hi>Geneviefue the Patroneſſe of Paris.</hi>
+                     </note> are made: which are high or low, dry, or current: there haue you a Maſſe for S. <hi>Geneuiefue,</hi> S. <hi>Michael</hi> and others.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXXVII.</head>
+                  <p>Beſide theſe doctrines and many more, contrary directly to the word of God, and beſides thoſe which are not con<g ref="char:EOLhyphen"/>tained in the holy Scriptures, but inuented by men vnder the name of <hi>Traditions;</hi> there remaineth as yet a meruailous abuſe committed in the ceremonies of the Romane Church: of the which ſome are ſuperfluous, and ridiculous: other ſome contrary and repugnant to the honour of God, and his word: all in general, exceſſiue in number, &amp; yet held more neceſſarie then doctrine it ſelfe. The ſuperfluous and ridiculous cere<g ref="char:EOLhyphen"/>monies amongſt others, are thoſe which the Prieſt obſerues in the Maſſe, in the which hee maketh a thouſand turnings, faigneth to ſleepe, mutters out his words ſoftly, makes his taile to be lifted vp, cauſeth a bell to be ſounded, &amp;c. <hi>Item</hi> the ſalt, and ſpettle in baptiſme, the blowe, and the band which the Biſhop giueth in the confirmation. In like maner thoſe which the Pope obſerueth in the Proceſſion, cauſing God to be caried vpon a Hackney, with a Lanterne before him to giue him light, together with many ſuch like abſur<g ref="char:EOLhyphen"/>dities. The ceremonies contrarie to the word of God, are no fewer in number; as when the Prieſt turneth his backe to the people, lifteth vp the Hoſt behinde, muttereth out the words of Conſecration for feare to be vnderſtoode, ſpeaketh in an vnknowne tongue, &amp;c. For Ieſus Chriſt hath done the quite contrary vnto this: as alſo the adoration of the Hoſt is cleane contrary to that which the Apoſtles did, who ſate at the Table not adoring it, acknowledging as it were, that it was not God, which they receaued, and eated, and that they offered not any ſacrifice propitiatory: of this kind are ſo ma<g ref="char:EOLhyphen"/>ny feaſts, which fight with the law of God, the which ſaith, <hi>Sixe dayes ſhall thou labour, &amp;c.</hi> But the wont is, that theſe ce<g ref="char:EOLhyphen"/>remonies<note place="margin">Exod 20.</note> and humane intentions are placed aboue the word of God, and his Commandements: for he that hath blaſphe<g ref="char:EOLhyphen"/>med
+<pb n="12" facs="tcp:11471:9"/> the name of God, ſhal not be ſo abominable vnto them, as he that eateth fleſh on good Friday, which neuertheleſſe is the day on the which Chriſt ordinarily did eate the Paſchal Lambe, and holy dayes with them are celebrated and reue<g ref="char:EOLhyphen"/>renced with more ſolemnity then Sunday: and at Rome it is a leſſe matter to be a deſpiſer of God, and be giuen to vnna<g ref="char:EOLhyphen"/>turall vices, then to detract from the Popes holineſſe: For this latter point a man is burned quicke, and the people are inſtructed to talke of Proceſſion, Chapelots, or Beades, Ima<g ref="char:EOLhyphen"/>ges, Reliques, Iubilies, ornaments of Altars, &amp;c: but of the myſteries of our redemption, of the ſauing grace in Ieſus Chriſt, and the whole doctrine of the holy Scriptures they are wholly ignorant, and are to them as claſped bookes.</p>
+               </div>
+               <div type="subpart">
+                  <head>XXXVIII.</head>
+                  <p>To conclude, I abhorre the pride of the Pope, and do not ſee that he doth any thing that S. <hi>Peter</hi> did, of whom he ſtiles himſelfe ſucceſſour: neither that S. <hi>Peter</hi> did any thing which the Pope now doth: For S. <hi>Peter</hi> preached the Goſpell with patience, zeale, and pouerty. ¶ On the contrary ſide, the<note place="margin">Lib. de ceremo<g ref="char:EOLhyphen"/>nijs Sacris. cap. de receptione re<g ref="char:EOLunhyphen"/>gis et cap. de feſt. Papal.</note> Pope preacheth not at all, but giueth and taketh away King<g ref="char:EOLhyphen"/>domes, cauſes himſelfe to be carried vpon the ſhoulders of men, makes Kings hold his bridle, Emperours kiſſe his Pan<g ref="char:EOLhyphen"/>table: nay, he maketh his houſhold ſeruants, and Cardinals goe before Kings, he neuer ſaluteth any man; nor doth euer reuerence to any man: hee pulleth ſoules out of Purgatorie, abſolueth and diſpenſeth with Oathes, promiſes made vnto God: he weareth a triple diademe; and giueth pardons for<note place="margin">Lib. 1. de cerem. Sac. can. Satis in diſtinct. 96 can. nos iuſti<g ref="char:EOLhyphen"/>cia<g ref="char:cmbAbbrStroke">̄</g> de immunit. in 6. Extra de Maio rit. &amp; obed. ſ. 33 can fundament. de electione in 6 can. 5. Papa diſt. 40. cauſa 25, qu, 1. can. ideo,</note> millions of yeares, hee nameth himſelfe in his Canons, decre<g ref="char:EOLhyphen"/>tals, and extrauagants, <hi>God, Spouſe of the Church;</hi> hee calleth his ordinances <hi>Oracles,</hi> that is to ſay anſweres of God: hee braggeth that all power both in heauen and earth, is giuen him, that all law, and right is in the cloſet of his owne breaſt: alſo that hee cannot erre in faith: that hee can ſend ſoules to hell by troupes, without any perſon daring to controule him: and hauing made lawes for the Church, will not be ſub<g ref="char:EOLhyphen"/>iect to them himſelfe. Moreouer, becauſe there is no ſalua<g ref="char:EOLhyphen"/>tion
+<pb n="13" facs="tcp:11471:9"/> without the Catholique and vniuerſall Church, which is the aſſembly of the Elect, and faithfull, the communion of Saints, and the body of Ieſus Chriſt himſelf being the head: and becauſe there is no other meanes to be the body of Ieſus Chriſt, but to cleaue faſt to Ieſus Chriſt, and that the way to be vnited with Ieſus Chriſt, is faith: I do aſſure my ſelfe that beleeuing in Ieſus Chriſt, I am of the Church, and ſhall haue life euerlaſting: although the Pope doth excommunicate me; his thunderings and Canons are but charged with winde, a<g ref="char:EOLhyphen"/>gainſt thoſe who build themſelues vpon Ieſus Chriſt, &amp; truſt in his word.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Certaine points held in the Romane Church, which they would hide from thoſe, whom they meane to drawe to their faction,</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Romane Church holdeth and teacheth, that a man cannot onely fulfill the Law, but alſo doe more then the Law doth preſcribe, and doe better things and more perfect then GOD hath commaunded, which they call works of Supererogation.</p>
+               <p>
+                  <hi>Item,</hi> that a man may ſuffer more in this life then is neceſ<g ref="char:EOLhyphen"/>ſary, and more then is due to ſatisfie God for the paine due vnto his ſinnes; which they call ſuperabundant ſatisfactions.</p>
+               <p>
+                  <hi>Item,</hi> that theſe ſuperabundant ſatisfactions of Saints,<note place="margin">Bellar. lib. 1. de indul. cap. 2.</note> Monks, and Martyrs, may be transferred to others, as well dead, as liuing, &amp; turned into ſatisfactions for their ſinnes.</p>
+               <p>
+                  <hi>Item,</hi> that the Pope doth heape vp theſe works, and ſuper<g ref="char:EOLhyphen"/>abundant<note place="margin">Extra. vag. Papa Clemens 6. can. vnigenitus.</note> ſatisfactions in the treaſure of the Church, and mingling them with the ſuperabundant merites of Ieſus Chriſt, doth diſtribute them by indulgences.</p>
+               <pb n="14" facs="tcp:11471:10"/>
+               <p>That the indulgences of the Pope extend themſelues, euen to them that are dead, in ſuch ſort that the Pope doth draw ſoules out of Purgatory, by applying to them the merits and ſatisfactions of Saints.</p>
+               <p>And theſe pardons extend themſelues to a hundreth thou<g ref="char:EOLhyphen"/>ſand, or two hundreth thouſand yeares: at Rome in the Church of S. <hi>Bibiane,</hi> there are ſixe hundred thouſand yeares pardon on the day of all Saints, for thoſe that will make ſome voluntary offer: there are found as yet greater Pardons then theſe in other Churches; as is to bee ſeene in the booke of<note place="margin">By <hi>Marcel. Franke a. 1599.</hi>
+                  </note> Romiſh indulgences, printed at Rome by the authority of <hi>Leo</hi> the tenth, &amp;c.</p>
+               <p>
+                  <hi>Item,</hi> in the Romane Church they teach that wee muſt a<g ref="char:EOLhyphen"/>dore images, this is to bee ſeene in the Councell which they name the ſeuenth, or the ſecond of Nice: and in Cardinall <hi>Bellarmine,</hi> and others: alſo they picture GOD againſt the manifeſt prohibition made in the law of God in the ſecond commandement, which therfore they haue cut off from their Houres and breuiaries againſt the expreſſe prohibition made in the fourth of <hi>Deuteronomy Ch. 4. Verſ. 15. and</hi> 16.<note place="margin">Quorum meri<g ref="char:EOLhyphen"/>tis precibuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> concedas.</note>
+               </p>
+               <p>
+                  <hi>Item,</hi> to this day by the conſentment, and approbation of the facultie of Diuinitie in Paris, in the yeare 1602. they haue reprinted the Pſalter of the Virgin <hi>Marie,</hi> where ſhe is called the firſt cauſe of Saluation of the world, the Inuentreſſe of grace, the Diuine Maieſtie, ſhe in whom wee alone place our hope, ſhe which doth appeaſe the indignation of Ieſus Chriſt, when he is incenſed againſt vs, the Spouſe of God, &amp;c.</p>
+               <p>In the Maſſe the Prieſt demaundeth the fauour of God, through merites of Saints: which is a language or manner of ſpeech, which a Subiect dare not vſe to his Prince. In the Breuiaries oftentimes ſuch prayers are read: for the me<g ref="char:EOLhyphen"/>rit of ſuch a Saint or a Sainteſſe, giue vs life euerlaſting: and the Prieſt bowing himſelfe before the Altar, demandeth that it would pleaſe God to bee fauourable vnto him, for the me<g ref="char:EOLhyphen"/>rits of thoſe Saints, whoſe reliques are vnder the Altar.</p>
+               <p>In the Church of Rome they teach that a man ought to
+<pb n="15" facs="tcp:11471:10"/> Purchaſe the Kingdom of God by his own merits: nay which is more, they attribute to man merits <hi>ex condigno,</hi> that is, of themſelues worthy, which may be a price worthie ſo excel<g ref="char:EOLhyphen"/>lent a purchaſe, as is life euerlaſting.</p>
+               <p>
+                  <hi>Item,</hi> they there teach, that vnder the earth there are foure ſtages, of which Hell is the loweſt, next to that Purgatorie, next the <hi>Lymbus</hi> of little Children, which die without bap<g ref="char:EOLhyphen"/>tiſme, and who are depriued of euerlaſting ſaluation; and aboue all thoſe is <hi>Lymbus</hi> of the fathers, dead before the com<g ref="char:EOLhyphen"/>ming of Ieſus Chriſt in the fleſh.</p>
+               <p>
+                  <hi>Item,</hi> they there teach, that Ieſus Chriſt did not deliuer vs by his death from all puniſhment, due to our ſinnes commit<g ref="char:EOLhyphen"/>ted after Baptiſme.</p>
+               <p>
+                  <hi>Item,</hi> they there teach; that the true bodie of Ieſus Chriſt<note place="margin">Concil. Trident. Can. 12. ſi quis dixerit, &amp; An<g ref="char:EOLhyphen"/>dradius in hunc locum. Bella. li. 1 de purg cap. 7 &amp; Io. 2. de conſe<g ref="char:EOLhyphen"/>cra. can. Ego Be<g ref="char:EOLhyphen"/>rengarius.</note> is truely, and ſenſibly broken, and bruiſed in the Maſſe by the teeth of the faithfufull, and yet they teach, that if the Wafer were broken into a thouſand peeces, that in euerie peece the bodie of Ieſus Chriſt is whole, with all his parts, and members, as great, and as tall as he was vpon the tree of the Croſſe: alſo they teach, that that which the Prieſt brea<g ref="char:EOLhyphen"/>keth is no lo<g ref="char:cmbAbbrStroke">̄</g>ger bread, although S. <hi>Paul</hi> ſaith, <hi>The bread which wee breake, &amp;c.</hi> They teach that the bodie is in the Cuppe, ſo that the Prieſt drinketh the bodie of Ieſus Chriſt; &amp; although euerie one ſaith that hee eateth God, and carrieth God, and that in the Maſſe he receiueth his Creatour; notwithſtanding there hath not been any one hitherto that hath dared to ſay, that he drinketh God, or that God is in the Cup.</p>
+               <p>From the beginning of Maſſels, or Maſſe-bookes, there are<note place="margin">Hanc oblatio<g ref="char:EOLhyphen"/>nem quam tibi efferimus in bo<g ref="char:EOLhyphen"/>norem beatae virginis &amp; om<g ref="char:EOLhyphen"/>nium ſanctorum.</note> found Caueats, or rules of the Maſſe, in the which among many other Rules, it is commanded, that if a man hauing receiued the hoſt, doe chance to caſt it vp againe, that then he muſt licke it vp, and eat it once more as preſuppoſing God to be in the thing which is vomited, but if it happe that a man hath not the heart and ſtomacke ſo to doe, he is then com<g ref="char:EOLhyphen"/>manded to burne this vomited-ſtuffe, and to turne the aſhes thereof into Reliques: the ſame alſo is commanded concer<g ref="char:EOLhyphen"/>ning
+<pb n="16" facs="tcp:11471:11"/> rats, and wormes, who haue knawen, and eaten the ſa<g ref="char:EOLhyphen"/>cred hoſt.</p>
+               <p>In the Maſſe the Prieſt ſaith, that hee offreth Ieſus Chriſt<note place="margin">Hac munera accepta habera digneris, ſicut accepta habere. dignatus es mu<g ref="char:EOLhyphen"/>nera pueri tui Abel. Jube haec per<g ref="char:EOLhyphen"/>ferri per manus ſancti Angeli tui. Corpus tuum Domine quod ſumpſi adhaer eat viſteribus meis.</note> to God in a Sacrifice truely propitiatorie, and ſatisfactorie for the ſinnes, as well of the liuing, as of the dead; yea, he offers him vnto God in honour of the Saints, as the words are ex<g ref="char:EOLhyphen"/>preſſely ſet downe in the maſſe, and prayeth to God, that it would pleaſe him to receiue the ſacrifice which he maketh, to wit, Ieſus Chriſt with as gracious and fauourable an eie, as in times paſt he receiued that of <hi>Abel,</hi> that is to ſay, a Sacrifice of beaſts.</p>
+               <p>He prayeth that the Angell may carrie his Sacrifice to the celeſtiall Altar, then he eateth it, and hauing eaten it, he pray<g ref="char:EOLhyphen"/>eth that the bodie which hath eaten, may remaine cleauing to his entrailes or bowels.</p>
+               <p>And theſe Meſſels or maſſe-bookes ſerue for all vſes, euen for corne and heards of cattell; in theſe meſſels or maſſe-bookes are to be found maſſes of women great with childe, maſſes of Virgins, whereof S. <hi>Paul</hi> contenteth himſelfe to ſay, <hi>The Supper of the Lord.</hi> As concerning ſinnes, the maſſe is not but for veniall ſins, and for the mortall ſins which a man hath forgotten.<note place="margin">Lib. Sacrar, ce<g ref="char:EOLhyphen"/>rem cap. de be<g ref="char:EOLhyphen"/>nedictione enſis. Can. 5. Papa diſt.</note>
+               </p>
+               <p>Alſo in the Church of Rome it is held, that the Pope can<g ref="char:EOLhyphen"/>not become an Heretike, and though hee ſhould ſend ſoules by troupes and cart-loads into Hell, yet no man ought to re<g ref="char:EOLhyphen"/>pine at him for ſo doing: he nameth himſelfe God, the ſpouſe of the Church, his holyneſſe, and his words Oracles, that is to ſay anſweres of God, and his Decrees, canonicall writings: he giueth and taketh away Kingdomes, hee diſpenſeth with oathes and vowes made to God, he ſayes that he cannot bee made an Heretike.<note place="margin">Can. fundamen<g ref="char:EOLhyphen"/>tale elect in. 6. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 19. in Canon. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> titulo. Sixtus Quartus lib. ſa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ar. cer. Tom. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cap. excuſ. <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tijs 1518.</note>
+               </p>
+               <p>His ordinances, as to forbid to eate fleſh in Lent, are more ſtraightly obſerued then the commandements of God, as the prohibition to ſweare, and whore: he boaſteth that all power is giuen him both in heauen and earth: hee taketh away the ſecond commaundement from the Law of God: he hindreth
+<pb n="17" facs="tcp:11471:11"/> the people from reading the holy ſcriptures, the which ſome of his faction, call inſufficient to declare the truth, it being but part of the rule: and that the other part is the word not written, which muſt be learned of him, and thoſe to whom he hath giuen charge, and vocation to it: ſo that no man can reprooue him, except hee be authorized and approoued<note place="margin">Cauſa 25. qu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>; can. Ideo.</note> by the Pope, and to bring his Tyrannie to a head, he ſaies, that the Pope giueth Lawes to the Church, to the which neuertheleſſe he is not ſubiect, as being maiſter of the Law.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
